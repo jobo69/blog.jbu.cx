@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: jobo's blog # the main title
+title: jonas's blog # the main title
 
 tagline: # it will display as the sub-title
 
@@ -31,7 +31,7 @@ url: ""
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: jobo
+  name: jonas
   email: blog@jbu.cx # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -74,7 +74,6 @@ theme_mode: dark # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://jobos.pictures/YuZe8/fEyATOWI68.png/raw
 
 # boolean type, the global switch for TOC in posts.
 toc: true
