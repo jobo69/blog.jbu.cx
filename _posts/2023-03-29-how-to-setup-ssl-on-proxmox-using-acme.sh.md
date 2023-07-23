@@ -32,6 +32,7 @@ chmod +x acme.sh
 ```bash
 ./acme.sh --issue --dns --yes-I-know-dns-manual-mode-enough-go-ahead-please -d your.domain.com
 ```
+Note: Allthough I use a Manual DNS challenge here, I would strongly recommend against it, since it does not auto renew the certificates.
 2. You should now see a console output that looks something like this:
 ```bash
 [Wed 29 Mar 2023 09:53:58 PM CEST] Add the following TXT record:
